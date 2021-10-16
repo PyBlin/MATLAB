@@ -3,6 +3,6 @@
 [ One of my major subjects ]
 
 - Korea National University of Tranportation
-- Electrical and Electronic Engineering
+- Department of Railway Electrical and Electronic Engineering
 - Professor Heesung Lee
 - Control System and Programing
